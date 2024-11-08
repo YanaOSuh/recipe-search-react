@@ -138,3 +138,26 @@ li {
   border: 1px solid #9c27b0;
   color: #9c27b0;
 }
+.link {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 5px;
+  padding: 10px;
+}    
+.myInfo {
+  font-family: 'Mulish', sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  color: #13212f;
+  text-decoration: none;
+  padding: 10px;
+  cursor: pointer;
+}
+.myName {
+  text-decoration: none;
+  cursor: pointer;
+  color:  #3e3e3e;
+  text-shadow:2px 0px 2px #eab8f3;
+  font-weight: 600;
+}

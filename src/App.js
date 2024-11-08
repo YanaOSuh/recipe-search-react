@@ -63,6 +63,10 @@ const finalSearch = (e) => {
         ))}
       </div>
 
+      <div class="link">
+        <a class="myInfo" href="https://yanaos-portfolio.glitch.me/" target="_blank">Developed by <span class="myName">YanaOS</span></a>
+        <a class="myInfo" href="https://www.edamam.com/" target="_blank">Powered by www.edamam.com</a>
+      </div>
     </div>
   );
 }
